@@ -1,0 +1,3 @@
+{  "cause": "Engine overheating due to lubrication failure.",
+  "solution": "1. Identify and Inspect: Validate all service vehicles in the fleet for lubrication levels and operating temperatures. Ensure all vehicles have been serviced according to the maintenance, repair, and operations (MRO) schedule. 2. Implement Upgrades: Add auxiliary radiators to affected vehicles to maintain engine temperatures within the recommended limits. 3. Predictive Maintenance: Establish remote engine operations monitoring to capture operating conditions early and mitigate potential issues proactively.",
+}
